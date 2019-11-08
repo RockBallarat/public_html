@@ -1,5 +1,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.rockballarat.com.au/index.html</loc>
+		<loc>https://www.rockballarat.com.au/index.html</loc>
+	</url>
+	<url>
+		<loc>https://www.rockballarat.com.au/cars.html</loc>
+	</url>
+	<url>
+		<loc>https://www.rockballarat.com.au/vendors.html</loc>
+	</url>
+	<url>
+		<loc>https://www.rockballarat.com.au/venues.html</loc>
+	</url>
+	<url>
+		<loc>https://www.rockballarat.com.au/pinups.html</loc>
+	</url>
+	<url>
+		<loc>https://www.rockballarat.com.au/volunteers.html</loc>
+	</url>
+	<url>
+		<loc>https://www.rockballarat.com.au/sponsors.html</loc>
+	</url>
+	<url>
+		<loc>https://www.rockballarat.com.au/store.html</loc>
+	</url>
+	<url>
+		<loc>https://www.rockballarat.com.au/page8.html</loc>
 	</url>
 </urlset>
